@@ -11,7 +11,7 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "waitDuration": "PT20S",
+    "waitDuration": "PT5S",
     "waitMode": "FOR"
   }
 }
