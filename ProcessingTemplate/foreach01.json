@@ -8,7 +8,7 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "forEachCollection": "1..10",
+    "forEachCollection": "1..50",
     "forEachCollectionType": "TEXT",
     "onUnresolvedVariables": "FAIL"
   }
